@@ -15,6 +15,8 @@
     System.out.println("我是中国人");
     System.out.println("我是中国人");
     System.out.println("我是中国人");
+    System.out.println("b");
+    System.out.println("a");
   %>
   <h1>我是中国人</h1>
   </body>
